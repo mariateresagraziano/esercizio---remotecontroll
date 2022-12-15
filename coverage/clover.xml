@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1671008664935" clover="3.2.0">
+  <project timestamp="1671008664935" name="All files">
+    <metrics statements="30" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="2" elements="43" coveredelements="21" complexity="0" loc="30" ncloc="30" packages="2" files="7" classes="7"/>
+    <package name="src">
+      <metrics statements="20" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="2"/>
+      <file name="button.ts" path="/Users/mariateresagraziano/Documents/esercizi/remotecontroll/src/button.ts">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="remotecontroll.ts" path="/Users/mariateresagraziano/Documents/esercizi/remotecontroll/src/remotecontroll.ts">
+        <metrics statements="17" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.command">
+      <metrics statements="10" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="firstCommand.ts" path="/Users/mariateresagraziano/Documents/esercizi/remotecontroll/src/command/firstCommand.ts">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="offCommand.ts" path="/Users/mariateresagraziano/Documents/esercizi/remotecontroll/src/command/offCommand.ts">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="onCommand.ts" path="/Users/mariateresagraziano/Documents/esercizi/remotecontroll/src/command/onCommand.ts">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="secondCommand.ts" path="/Users/mariateresagraziano/Documents/esercizi/remotecontroll/src/command/secondCommand.ts">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="thirdCommand.ts" path="/Users/mariateresagraziano/Documents/esercizi/remotecontroll/src/command/thirdCommand.ts">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
