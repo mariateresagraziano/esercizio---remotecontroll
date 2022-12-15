@@ -20,23 +20,23 @@ export default class RemoteControll {
         this.thirdButton = new Button(new ThirdCommand());
     }
 
-    On():void  {
+    PressOn():void  {
         return this.onButton.pressButton();
     }
 
-    Off():void  {
+    PressOff():void  {
         return this.offButton.pressButton();
     }
 
-    First():void  {
+    PressFirst():void  {
         return this.firstButton.pressButton();
     }
 
-    Second():void  {
+    PressSecond():void  {
         return this.secondButton.pressButton();
     }
 
-    Third():void  {
+    PressThird():void  {
         return this.thirdButton.pressButton();
     }
 }

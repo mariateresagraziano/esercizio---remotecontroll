@@ -15,15 +15,15 @@ describe('testing remote controll', () => {
         expect(controll.offButton.command).toBeInstanceOf(OffCommand);
     });
 
-    test('FIRST button has first channel', () => {     
+    test('FIRST button has first command', () => {     
         expect(controll.firstButton.command).toBeInstanceOf(FirstCommand);
     });
 
-    test('SECOND button has second channel', () => {     
+    test('SECOND button has second command', () => {     
         expect(controll.secondButton.command).toBeInstanceOf(SecondCommand);
     });
 
-    test('THIRD button has third channel', () => {     
+    test('THIRD button has third command', () => {     
         expect(controll.thirdButton.command).toBeInstanceOf(ThirdCommand);
     });
 
